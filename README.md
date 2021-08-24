@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rakibuzzamanakash
+- 👋 Hi, I’m @Rakibuzzaman_akash
 - 👀 I’m interested in java script
-- 🌱 I’m currently learning html5/css3/ java script
+- 🌱 I’m currently learning html5/css3/ java script/jQuery/Bootstrap 4
 - 💞️ I’m looking to collaborate on a programmer group
 - 📫 How to reach me rakibuzzamanakash@gmail.com
 
